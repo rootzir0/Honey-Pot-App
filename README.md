@@ -1,2 +1,2 @@
 # HoneyPot
-periodically automated password generator
+Periodically automated password generator for the sheep whom lack proper digital security
